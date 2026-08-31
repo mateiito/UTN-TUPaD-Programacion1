@@ -1,1 +1,1 @@
-En este repositorio se encuentra cargada la práctica de la Unidad 1 de la Tecnicatura en Programación de la UTN
+En este repositorio se encuentran cargadas las prácticas de la Tecnicatura en Programación de la UTN
